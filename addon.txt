@@ -1,0 +1,11 @@
+"AddonInfo"
+{
+	"name"				"ChatURL"
+	"version"			"1.00"
+	"up_date"			"00/00/00"
+	"author_name"			"The Realist"
+	"author_email"			""
+	"author_url"			""
+	"info"				"Type ![tag] into chat"
+	"override"			"0"
+}
